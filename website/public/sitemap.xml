@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://docs.sloth.com/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/contributors/about/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/about/</loc>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/learn/basicmobile/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicmobile/</loc>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/learn/basicpython/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicpython/</loc>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/learn/basicraspberrypi/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicraspberrypi/</loc>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/project/projects/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/projects/</loc>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/learn/learnskills/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/learnskills/</loc>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/solution/projectsolutions/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/projectsolutions/</loc>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/propose/proposeproject/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/propose/proposeproject/</loc>
   </url>
   
   <url>
-    <loc>http://docs.sloth.com/docs/contributors/supporters/</loc>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/supporters/</loc>
   </url>
   
 </urlset>

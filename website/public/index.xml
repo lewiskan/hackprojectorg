@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HackProject.org</title>
-    <link>http://docs.sloth.com/</link>
+    <link>http://lewiskan.github.io/hackprojectorg/website/public/</link>
     <description>Recent content on HackProject.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://docs.sloth.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lewiskan.github.io/hackprojectorg/website/public/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About HackProject.org</title>
-      <link>http://docs.sloth.com/docs/contributors/about/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/contributors/about/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/about/</guid>
       <description>&lt;p&gt;Pravin (Nepal), Aakarshan (Nepal), Lewis (Hawai&amp;rsquo;i)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Basic Mobile</title>
-      <link>http://docs.sloth.com/docs/learn/basicmobile/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicmobile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/learn/basicmobile/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicmobile/</guid>
       <description>&lt;p&gt;Text&lt;/p&gt;
 
 &lt;p&gt;Link to YouTube&lt;/p&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>Basic Python</title>
-      <link>http://docs.sloth.com/docs/learn/basicpython/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicpython/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/learn/basicpython/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicpython/</guid>
       <description>&lt;p&gt;Text&lt;/p&gt;
 
 &lt;p&gt;Link to YouTube&lt;/p&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>Basic Raspberry Pi</title>
-      <link>http://docs.sloth.com/docs/learn/basicraspberrypi/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicraspberrypi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/learn/basicraspberrypi/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicraspberrypi/</guid>
       <description>&lt;p&gt;Text&lt;/p&gt;
 
 &lt;p&gt;Link to YouTube&lt;/p&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>HackProjects</title>
-      <link>http://docs.sloth.com/docs/project/projects/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/project/projects/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/projects/</guid>
       <description>
 
 &lt;h1 id=&#34;current-projects:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Current Projects&lt;/h1&gt;
@@ -102,10 +102,10 @@
     
     <item>
       <title>Learn Skills for Project</title>
-      <link>http://docs.sloth.com/docs/learn/learnskills/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/learnskills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/learn/learnskills/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/learnskills/</guid>
       <description>
 
 &lt;h3 id=&#34;basic-programming-mechanical-design-etc:477f55bad5c6ee972bf1e5aa7b74a062&#34;&gt;Basic (Programming, Mechanical, Design, etc.)&lt;/h3&gt;
@@ -136,10 +136,10 @@
     
     <item>
       <title>Project Solutions</title>
-      <link>http://docs.sloth.com/docs/solution/projectsolutions/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/projectsolutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/solution/projectsolutions/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/projectsolutions/</guid>
       <description>
 
 &lt;p&gt;Solutions winners by Twitter votes!&lt;/p&gt;
@@ -150,10 +150,10 @@
     
     <item>
       <title>Propose a Project</title>
-      <link>http://docs.sloth.com/docs/propose/proposeproject/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/propose/proposeproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/propose/proposeproject/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/propose/proposeproject/</guid>
       <description>
 
 &lt;p&gt;Describe via text and, if possible, with a short 5 minute video, a real-world problem that can be explored by the HackProject.org community.&lt;/p&gt;
@@ -176,10 +176,10 @@
     
     <item>
       <title>Supporters HackProject.org</title>
-      <link>http://docs.sloth.com/docs/contributors/supporters/</link>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/supporters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.sloth.com/docs/contributors/supporters/</guid>
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/supporters/</guid>
       <description>&lt;p&gt;Pravin (Nepal), Aakarshan (Nepal), Lewis (Hawai&amp;rsquo;i)&lt;/p&gt;
 </description>
     </item>
