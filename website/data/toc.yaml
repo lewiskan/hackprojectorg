@@ -1,0 +1,25 @@
+sections:
+  - name: Propose a Project
+    sublinks:
+      - name: Propose a Project
+        url: /docs/propose/proposeproject
+  - name: Find a Project
+    sublinks:
+      - name: Projects
+        url: /docs/project/projects
+      - name: Project Page
+        url: /docs/project/projectpage.ace
+  - name: Learn Skills
+    sublinks:
+      - name: Learn
+        url: /docs/learn/learnskills
+  - name: Solutions
+    sublinks:
+      - name: Project Solutions
+        url: /docs/solution/projectsolutions
+  - name: Contributors
+    sublinks:
+      - name: About HackProject.org
+        url: /docs/contributors/about
+      - name: Support HackProject.org
+        url: /docs/contributors/supporters
