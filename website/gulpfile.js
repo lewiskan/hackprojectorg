@@ -99,3 +99,13 @@ gulp.task('help', $.taskListing.withFilters(null, 'help'));
 
 // Default
 gulp.task('default', ['help']);
+
+// gh-pages
+var deploy      = require('gulp-gh-pages');
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+  return gulp.src("./dist/**/*")
+    .pipe(deploy())
+});
