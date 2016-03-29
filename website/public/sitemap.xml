@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://docs.sloth.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/contributors/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/learn/basicmobile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/learn/basicpython/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/learn/basicraspberrypi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/project/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/learn/learnskills/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/solution/projectsolutions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/propose/proposeproject/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.sloth.com/docs/contributors/supporters/</loc>
+  </url>
+  
+</urlset>
