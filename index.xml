@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HackProject.org</title>
+    <link>http://lewiskan.github.io/hackprojectorg/website/public/</link>
+    <description>Recent content on HackProject.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://lewiskan.github.io/hackprojectorg/website/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About HackProject.org</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/about/</guid>
+      <description>&lt;p&gt;Pravin (Nepal), Aakarshan (Nepal), Lewis (Hawai&amp;rsquo;i)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic Mobile</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicmobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicmobile/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+
+&lt;p&gt;Link to YouTube&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic Python</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicpython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicpython/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+
+&lt;p&gt;Link to YouTube&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic Raspberry Pi</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicraspberrypi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicraspberrypi/</guid>
+      <description>&lt;p&gt;Text&lt;/p&gt;
+
+&lt;p&gt;Link to YouTube&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HackProjects</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/projects/</guid>
+      <description>
+
+&lt;h1 id=&#34;current-projects:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Current Projects&lt;/h1&gt;
+
+&lt;h2 id=&#34;sms-geolocation:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;SMS GeoLocation&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Disaster location in rural areas using mobile SMS&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills Needed:&lt;/strong&gt; Raspberry Pi, Python&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lessons:&lt;/strong&gt; Link to courses&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicraspberrypi&#34;&gt;Basic Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicpython&#34;&gt;Basic Python&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicmobile&#34;&gt;Basic Mobile&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution Test:&lt;/strong&gt; Generate location signal with Android phone.&lt;/p&gt;
+
+&lt;h2 id=&#34;project-2:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Project 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills Needed:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lessons:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;projcet-3:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Projcet 3&lt;/h2&gt;
+
+&lt;p&gt;Description:&lt;/p&gt;
+
+&lt;p&gt;Skills Needed:&lt;/p&gt;
+
+&lt;p&gt;Lessons:&lt;/p&gt;
+
+&lt;h1 id=&#34;archived-projects:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Archived Projects&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn Skills for Project</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/learnskills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/learnskills/</guid>
+      <description>
+
+&lt;h3 id=&#34;basic-programming-mechanical-design-etc:477f55bad5c6ee972bf1e5aa7b74a062&#34;&gt;Basic (Programming, Mechanical, Design, etc.)&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicraspberrypi&#34;&gt;Basic Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicpython&#34;&gt;Basic Python&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicmobile&#34;&gt;Basic Mobile&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;intermediate:477f55bad5c6ee972bf1e5aa7b74a062&#34;&gt;Intermediate&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicraspberrypi&#34;&gt;Int Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicpython&#34;&gt;Int Python&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicmobile&#34;&gt;Int Mobile&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;advanced:477f55bad5c6ee972bf1e5aa7b74a062&#34;&gt;Advanced&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicraspberrypi&#34;&gt;Adv. Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicpython&#34;&gt;Adv. Python&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../learn/basicmobile&#34;&gt;Adv. Mobile&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Solutions</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/projectsolutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/projectsolutions/</guid>
+      <description>
+
+&lt;p&gt;Solutions winners by Twitter votes!&lt;/p&gt;
+
+&lt;h3 id=&#34;rural-geolocation:278b6b3883c7e36303de8adb7ea4d309&#34;&gt;Rural Geolocation&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Propose a Project</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/propose/proposeproject/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/propose/proposeproject/</guid>
+      <description>
+
+&lt;p&gt;Describe via text and, if possible, with a short 5 minute video, a real-world problem that can be explored by the HackProject.org community.&lt;/p&gt;
+
+&lt;h2 id=&#34;discuss-on-slack:b9fa39eb0ce9fee1bb44648d6e308cbc&#34;&gt;Discuss on Slack!&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://hackprojectorg.slack.com/messages/project-proposals/&#34;&gt;HackProject.org on Slack&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ideal-projects:b9fa39eb0ce9fee1bb44648d6e308cbc&#34;&gt;Ideal Projects&lt;/h2&gt;
+
+&lt;p&gt;Raspberry Pi, Arduino, or other technology can be useful to solving this problem.&lt;/p&gt;
+
+&lt;p&gt;Examples: SMS Geolocation, satellite antennae&lt;/p&gt;
+
+&lt;h2 id=&#34;include-limitations:b9fa39eb0ce9fee1bb44648d6e308cbc&#34;&gt;Include limitations&lt;/h2&gt;
+
+&lt;p&gt;Limited wifi, low power, remote sensors, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supporters HackProject.org</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/supporters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/supporters/</guid>
+      <description>&lt;p&gt;Pravin (Nepal), Aakarshan (Nepal), Lewis (Hawai&amp;rsquo;i)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
