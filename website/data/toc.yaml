@@ -7,12 +7,16 @@ sections:
     sublinks:
       - name: Projects
         url: /hackprojectorg/docs/project/projects
-      - name: Project Page
-        url: /hackprojectorg/docs/project/projectpage.ace
   - name: Learn Skills
     sublinks:
       - name: Learn
         url: /hackprojectorg/docs/learn/learnskills
+      - name: BasicMobile
+        url: /hackprojectorg/docs/learn/basicmobile
+      - name: BasicPython
+        url: /hackprojectorg/docs/learn/basicpython
+      - name: BasicRaspberrypi
+        url: /hackprojectorg/docs/learn/basicraspberrypi
   - name: Solutions
     sublinks:
       - name: Project Solutions
