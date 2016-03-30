@@ -2,6 +2,10 @@ baseurl: http://lewiskan.github.io/hackprojectorg/website/public/   #http://docs
 languageCode: en-us
 title: HackProject.org
 author: Lewis Kaneshiro
+contentdir: content
+layoutdir: layouts
+publishdir: public
+canonifyurls: true
 
 # Site-level config
 MetaDataFormat: yaml
