@@ -2,28 +2,28 @@ sections:
   - name: Propose a Project
     sublinks:
       - name: Propose a Project
-        url: /hackprojectorg/docs/propose/proposeproject
+        url: /docs/propose/proposeproject
   - name: Find a Project
     sublinks:
       - name: Projects
-        url: /hackprojectorg/docs/project/projects
+        url: /docs/project/projects
   - name: Learn Skills
     sublinks:
       - name: Learn
-        url: /hackprojectorg/docs/learn/learnskills
+        url: /docs/learn/learnskills
       - name: BasicMobile
-        url: /hackprojectorg/docs/learn/basicmobile
+        url: /docs/learn/basicmobile
       - name: BasicPython
-        url: /hackprojectorg/docs/learn/basicpython
+        url: /docs/learn/basicpython
       - name: BasicRaspberrypi
-        url: /hackprojectorg/docs/learn/basicraspberrypi
+        url: /docs/learn/basicraspberrypi
   - name: Solutions
     sublinks:
       - name: Project Solutions
-        url: /hackprojectorg/docs/solution/projectsolutions
+        url: /docs/solution/projectsolutions
   - name: Contributors
     sublinks:
       - name: About HackProject.org
-        url: /hackprojectorg/docs/contributors/about
+        url: /docs/contributors/about
       - name: Support HackProject.org
-        url: /hackprojectorg/docs/contributors/supporters
+        url: /docs/contributors/supporters
