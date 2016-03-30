@@ -2,24 +2,24 @@ sections:
   - name: Propose a Project
     sublinks:
       - name: Propose a Project
-        url: /docs/propose/proposeproject
+        url: /hackprojectorg/docs/propose/proposeproject
   - name: Find a Project
     sublinks:
       - name: Projects
-        url: /docs/project/projects
+        url: /hackprojectorg/docs/project/projects
       - name: Project Page
-        url: /docs/project/projectpage.ace
+        url: /hackprojectorg/docs/project/projectpage.ace
   - name: Learn Skills
     sublinks:
       - name: Learn
-        url: /docs/learn/learnskills
+        url: /hackprojectorg/docs/learn/learnskills
   - name: Solutions
     sublinks:
       - name: Project Solutions
-        url: /docs/solution/projectsolutions
+        url: /hackprojectorg/docs/solution/projectsolutions
   - name: Contributors
     sublinks:
       - name: About HackProject.org
-        url: /docs/contributors/about
+        url: /hackprojectorg/docs/contributors/about
       - name: Support HackProject.org
-        url: /docs/contributors/supporters
+        url: /hackprojectorg/docs/contributors/supporters
