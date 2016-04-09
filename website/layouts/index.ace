@@ -56,6 +56,64 @@ html lang={{.Site.LanguageCode}}
         .container style="text-align: center;"
           .row 
             .col-sm-12
+              h2 HackProject EcoSystem
+              p Active Projects, Lessons, and Proposed Solutions
+          .row 
+            .col-sm-4
+              h2 Modern Cowbell 
+              p Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth.  Find a solution to keep track of family cows (4) to reduce constant monitoring need.  
+              p Constraints: No internet, WiFi connection
+              a href=https://www.youtube.com/watch?v=Eyv93STNEFQ&feature=youtu.be CowBell Video submission (rural Nepal)
+              p
+              a href=docs/project/cowbell CowBell Written submission (rural Nepal)
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Basic Raspberry Pi
+              p
+              a href=docs/contributors/supporters NEEDED Basic Algorithms (Python)
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/solution/cowbell_sol1 Written Solution (proposed by Pravin, rural Nepal)
+              p
+              a href=docs/contributors/supporters Solution Video
+      .landing-feature-2
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Scarce Water Monitoring 
+              p Agricultural farm with scarce water.  20-minute each way to water source.  Problem: keep track of water moisture level on fields to alert farmers of watering needs and optimize travel time to water source.  
+              p Constraints: Smartphone with WiFi, Bluetooth
+              a href=https://www.youtube.com/watch?v=jFDCgfnswoA&ebc=ANyPxKpqFsZciY2y4L8qJL_kCVivtGb1xIqBjDtTl2xKx0LHdm9qeu0UdOKmCHBqLRBMONUaaPddYIp_JL9PbwcxYYXkEwdrwQ&nohtml5=False Scarce Water Submission (rural Nepal)
+            .col-sm-4
+              h2 Lessons
+              p Shailendra is currently working towards creating a
+              a href=http://www.afforestt.com/methodology.html rapid forest 
+
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 NOAA Weather images download
+              p Looking for solution to tracking NOAA satellites to obtain satellite images using Raspberry Pi.
+              p Constraints: Raspberry Pi
+              a href=https://www.youtube.com/watch?v=52raoYzGxH0&ebc=ANyPxKq70Oe_v4NW7ql8wRTBpvW4kujh_AOrnXjdd-mxdn5gze0J92yiz5dUmm6X3pWgBbGN853ig4Yn3gC5sSbsKvT7gXYiLQ&nohtml5=False NOAA images using Raspberry Pi (rural Nepal)
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Basic Raspberry Pi
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-12
               h2 HackProject.org is in Beta
               p Join the community by learning, teaching, and sharing!
       .landing-feature-1

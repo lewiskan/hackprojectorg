@@ -3,8 +3,12 @@ title: HackProjects
 ---
 # Current Projects
 
-## SMS GeoLocation
-**Description:** Disaster location in rural areas using mobile SMS
+## CowBell
+**Description:** 
+
+[CowBell Written submission (rural Nepal)](../cowbell) - Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth. Find a solution to keep track of family cows (4) to reduce constant monitoring need.
+
+Constraints: No internet, WiFi connection
 
 **Skills Needed:** Raspberry Pi, Python
 
