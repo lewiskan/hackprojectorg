@@ -104,7 +104,9 @@ html lang={{.Site.LanguageCode}}
               a href=https://www.youtube.com/watch?v=52raoYzGxH0&ebc=ANyPxKq70Oe_v4NW7ql8wRTBpvW4kujh_AOrnXjdd-mxdn5gze0J92yiz5dUmm6X3pWgBbGN853ig4Yn3gC5sSbsKvT7gXYiLQ&nohtml5=False NOAA images using Raspberry Pi (rural Nepal)
             .col-sm-4
               h2 Lessons
-              a href=https://www.youtube.com/watch?v=FpLnuRbShTI&feature=youtu.be Basic Antenna Video 
+              a href=https://www.youtube.com/watch?v=FpLnuRbShTI&feature=youtu.be Basic Antenna Video
+              p
+              a href=https://youtu.be/A2CjzlV5aHQ gpredict Satellite use 
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
