@@ -64,9 +64,13 @@
 
 &lt;h1 id=&#34;current-projects:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Current Projects&lt;/h1&gt;
 
-&lt;h2 id=&#34;sms-geolocation:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;SMS GeoLocation&lt;/h2&gt;
+&lt;h2 id=&#34;cowbell:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;CowBell&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Disaster location in rural areas using mobile SMS&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;../cowbell&#34;&gt;CowBell Written submission (rural Nepal)&lt;/a&gt; - Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth. Find a solution to keep track of family cows (4) to reduce constant monitoring need.&lt;/p&gt;
+
+&lt;p&gt;Constraints: No internet, WiFi connection&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Skills Needed:&lt;/strong&gt; Raspberry Pi, Python&lt;/p&gt;
 
@@ -131,6 +135,104 @@
 &lt;li&gt;&lt;a href=&#34;../../learn/basicpython&#34;&gt;Adv. Python&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../../learn/basicmobile&#34;&gt;Adv. Mobile&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modern Cowbell (rural Nepal)</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/cowbell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/cowbell/</guid>
+      <description>
+
+&lt;h3 id=&#34;problem-statement:34fa132130f81ac35c443b71fc070b37&#34;&gt;Problem Statement&lt;/h3&gt;
+
+&lt;p&gt;need to track cattle when they go off to graze&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube video on problem :&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/Eyv93STNEFQ&#34;&gt;https://youtu.be/Eyv93STNEFQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;problem-description:34fa132130f81ac35c443b71fc070b37&#34;&gt;Problem description&lt;/h3&gt;
+
+&lt;p&gt;My mother needs to allow 4 cows in my home to graze around the home. she cannot be present all the time around the cows as she needs to finish her household works as well as tend to the fields. At the end of the day she needs to get all of these cows to shed. Most time 1 or the other cows wonder off looking for better pastures and she has to take a while to search for them. She looses valuable milking time as well as time need for her evening chores.&lt;/p&gt;
+
+&lt;p&gt;It would be nice if she could track her cows in some way, not necessarily at all times. Normally she would want to find the cows as fast as possible when she goes looking for them at the end of the day.&lt;/p&gt;
+
+&lt;p&gt;Ideally a mobile based solution would be great for her as she carries one most of the time.&lt;/p&gt;
+
+&lt;h3 id=&#34;have-s:34fa132130f81ac35c443b71fc070b37&#34;&gt;Have&amp;rsquo;s&lt;/h3&gt;
+
+&lt;p&gt;My mother has a feature mobile phone with bluetooth.&lt;/p&gt;
+
+&lt;h3 id=&#34;have-not-s:34fa132130f81ac35c443b71fc070b37&#34;&gt;Have not&amp;rsquo;s&lt;/h3&gt;
+
+&lt;p&gt;My mother does not have access to Internet. There is no wifi on her phone.&lt;/p&gt;
+
+&lt;h3 id=&#34;constraints:34fa132130f81ac35c443b71fc070b37&#34;&gt;Constraints&lt;/h3&gt;
+
+&lt;p&gt;my mother cannot read well. So it might be good to signal her with sound when the cow/s is found. She will be able to press button on mobile screen to start application.&lt;/p&gt;
+
+&lt;h3 id=&#34;solution-1:34fa132130f81ac35c443b71fc070b37&#34;&gt;Solution 1&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Proposed by&lt;/strong&gt; Pravin Raj Joshi&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../solution/cowbell_sol1&#34;&gt;CowBell Solution&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modern Cowbell - Solution (rural Nepal)</title>
+      <link>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/cowbell_sol1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/cowbell_sol1/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Proposed by&lt;/strong&gt; Pravin Raj Joshi&lt;/p&gt;
+
+&lt;h3 id=&#34;solution:c4631a851d3669f332b3342058b42d86&#34;&gt;Solution&lt;/h3&gt;
+
+&lt;h3 id=&#34;material-used:c4631a851d3669f332b3342058b42d86&#34;&gt;Material used&lt;/h3&gt;
+
+&lt;p&gt;radBeacon &amp;ndash; &lt;a href=&#34;http://www.amazon.com/Radius-Networks-RadBeacon-Dot-Technology/dp/B00JJ4P864/ref=sr_1_5?ie=UTF8&amp;amp;qid=1459677045&amp;amp;sr=8-5&amp;amp;keywords=ibeacon&#34;&gt;http://www.amazon.com/Radius-Networks-RadBeacon-Dot-Technology/dp/B00JJ4P864/ref=sr_1_5?ie=UTF8&amp;amp;qid=1459677045&amp;amp;sr=8-5&amp;amp;keywords=ibeacon&lt;/a&gt;
+piBeacon &amp;ndash; &lt;a href=&#34;http://store.radiusnetworks.com/products/pibeacon&#34;&gt;http://store.radiusnetworks.com/products/pibeacon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deviation&lt;/strong&gt; does not use mobile device&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Value of solution&lt;/strong&gt; faster to production. Cheaper and more easily usable that mobile.&lt;/p&gt;
+
+&lt;h3 id=&#34;steps:c4631a851d3669f332b3342058b42d86&#34;&gt;Steps&lt;/h3&gt;
+
+&lt;p&gt;&amp;ndash; make sure the radBeacon is &amp;ldquo;ON&amp;rdquo; by clicking on the small button. It will blink green when it goes on. The battery will last for a year.
+&amp;ndash; put radBeacon around the cow&amp;rsquo;s neck as necklace using strong rope.
+&amp;ndash; Let the cows wonder off to graze.
+&amp;ndash; While tracking the cows, start the raspberry pi by providing it power.
+&amp;ndash; You will see a green light glow when raspberry pi goes on.
+&amp;ndash; Move around with the pi to known locations to find cow.
+&amp;ndash; The raspberry pi will give beeping sound when a cow comes near its field.&lt;/p&gt;
+
+&lt;h3 id=&#34;implementation-of-the-raspberry-pi:c4631a851d3669f332b3342058b42d86&#34;&gt;Implementation of the raspberry pi&lt;/h3&gt;
+
+&lt;h3 id=&#34;algorithm:c4631a851d3669f332b3342058b42d86&#34;&gt;Algorithm&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scan bluetooth IO for beacon every 250ms&lt;/li&gt;
+&lt;li&gt;When beacon found check against cow beacon id&lt;/li&gt;
+&lt;li&gt;When known beacon found, trigger alarm&lt;/li&gt;
+&lt;li&gt;When unknown beacon found, continue search&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Github link to project code : [&lt;a href=&#34;http://github.com/hackproject/&#34;&gt;http://github.com/hackproject/&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;My notes at Google Notes and Keep :
+Discuss on Slack #cowBell Channel : hackproject
+Read complete project on Medium :
+Post comment on Twitter #hakcproject:cowBell
+Schedule Mentoring session on skype : public google calendar or claralabs
+Pre-req for mentoring :
+    - should know basic howto of raspberry pi
+    - should know basic of ibeacon
+    - should know simple python&lt;/p&gt;
 </description>
     </item>
     
