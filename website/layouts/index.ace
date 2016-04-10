@@ -13,21 +13,6 @@ html lang={{.Site.LanguageCode}}
           #img.img-responsive.pull-left src={{.Site.Params.assets.logo}} 
           h1 {{.Site.Title}}
           p {{.Site.Params.tagline}}
-      .hero-bar 
-        .container style="text-align: center;"
-          .row 
-            .col-sm-3
-              h4 Propose a Project
-              a.btn.btn-success href=docs/propose/proposeproject Propose Project
-            .col-sm-3
-              h4 Find a Project
-              a.btn.btn-success href=docs/project/projects Projects
-            .col-sm-3
-              h4 Learn skills for Project
-              a.btn.btn-success href=docs/learn/learnskills Learn
-            .col-sm-3
-              h4 Project Solutions
-              a.btn.btn-success href=docs/solution/projectsolutions Solutions
       .landing-feature-2
         .container style="text-align: center;"
           .row
@@ -42,16 +27,16 @@ html lang={{.Site.LanguageCode}}
           .row
             .col-sm-3
               h3  Real-world projects 
-              p Bridge the gap between hacking for fun and hacking for purpose with actual projects proposed with real-world limitations and use cases.
+              p Bridge the gap between hacking for fun and hacking for purpose with actual projects proposed with real-world limitations.
             .col-sm-3
               h3 Find a Project
               p Select a project that fits your current expertise, or choose a new challenge and learn new skills.
             .col-sm-3
-              h3 Learn or Teach skills needed
+              h3 Learn or Teach skills
               p Learn programming, mechanical, design, or other skills by joining the HackProject.org community.
             .col-sm-3
               h3 Share and improve on solution implementations
-              p Solutions are current implementations that can always be improved or modified for new use cases.  
+              p Solutions are current implementations that can always be improved or adapted.  
       .landing-feature-1
         .container style="text-align: center;"
           .row 
@@ -112,6 +97,27 @@ html lang={{.Site.LanguageCode}}
               a href=docs/contributors/supporters NEEDED Solution Writeup
               p
               a href=docs/contributors/supporters NEEDED Solution Video
+      .hero-bar
+        .container
+          .row
+            p   
+            p  
+            p  
+      .hero-bar 
+        .container style="text-align: center;"
+          .row 
+            .col-sm-3
+              h4 Propose a Project
+              a.btn.btn-success href=docs/propose/proposeproject Propose Project
+            .col-sm-3
+              h4 Find a Project
+              a.btn.btn-success href=docs/project/projects Projects
+            .col-sm-3
+              h4 Learn skills for Project
+              a.btn.btn-success href=docs/learn/learnskills Learn
+            .col-sm-3
+              h4 Project Solutions
+              a.btn.btn-success href=docs/solution/projectsolutions Solutions
       .landing-feature-1
         .container style="text-align: center;"
           .row 
