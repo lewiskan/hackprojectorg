@@ -48,7 +48,7 @@ html lang={{.Site.LanguageCode}}
               h2 Modern Cowbell 
               p Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth.  Find a solution to keep track of family cows (4) to reduce constant monitoring need.  
               p Constraints: No internet, WiFi connection
-              a href=https://www.youtube.com/watch?v=Eyv93STNEFQ&feature=youtu.be CowBell Video submission (rural Nepal)
+              a href=https://youtu.be/W0D2qw_E91k CowBell Video submission (rural Nepal)
               p
               a href=docs/project/cowbell CowBell Written submission (rural Nepal)
             .col-sm-4
