@@ -1,0 +1,33 @@
+sections:
+  - name: Propose a Project
+    sublinks:
+      - name: Propose a Project
+        url: /docs/propose/proposeproject
+  - name: Find a Project
+    sublinks:
+      - name: Projects
+        url: /docs/project/projects
+      - name: CowBell
+        url: /docs/project/cowbell
+  - name: Learn Skills
+    sublinks:
+      - name: Learn
+        url: /docs/learn/learnskills
+      - name: BasicMobile
+        url: /docs/learn/basicmobile
+      - name: BasicPython
+        url: /docs/learn/basicpython
+      - name: BasicRaspberrypi
+        url: /docs/learn/basicraspberrypi
+  - name: Solutions
+    sublinks:
+      - name: Project Solutions
+        url: /docs/solution/projectsolutions
+      - name: CowBell Solution1
+        url: /docs/solution/cowbell_sol1
+  - name: Contributors
+    sublinks:
+      - name: About HackProject.org
+        url: /docs/contributors/about
+      - name: Support HackProject.org
+        url: /docs/contributors/supporters

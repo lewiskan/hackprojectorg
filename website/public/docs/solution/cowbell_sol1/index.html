@@ -1,0 +1,48 @@
+<!DOCTYPE html><html lang="en-us"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="generator" content="Hugo 0.15"><title>HackProject.org Documentation - Modern Cowbell - Solution (rural Nepal)</title><link rel="stylesheet" href="http://lewiskan.github.io/hackprojectorg/website/public/css/style.min.css"><script defer src="//code.jquery.com/jquery-2.2.1.min.js"></script><script defer src="http://lewiskan.github.io/hackprojectorg/website/public/js/app.min.js"></script></head><body><nav class="navbar navbar-inverse navbar-fixed-top" role="navigation"><div class="container-fluid"><div class="navbar-header"><img class="img-responsive pull-left" src="http://lewiskan.github.io/hackprojectorg/website/public/img/two-puffins.jpg"><a class="navbar-brand" href="http://lewiskan.github.io/hackprojectorg/website/public/">&nbsp&nbspHackProject.org</a></div><div id="navbar" class="navbar-collapse collapse"><ul class="nav navbar-nav navbar-right"><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/propose/proposeproject">Propose a Project</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/project/projects">Find a Project</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/learnskills">Learn for a Project</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/projectsolutions/">Project Solutions</a></li></ul></div></div></nav><div class="row"><div class="col-sm-3 col-md-2 col-lg-3 sidebar collapse"><div class="sidebar-nav-container"><ul class="nav nav-sidebar"><li><span>Propose a Project</span><ul><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/propose/proposeproject">Propose a Project</a></li></ul><ul></ul></li><br><li><span>Find a Project</span><ul><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/project/projects">Projects</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/project/cowbell">CowBell</a></li></ul><ul></ul></li><br><li><span>Learn Skills</span><ul><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/learnskills">Learn</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicmobile">BasicMobile</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicpython">BasicPython</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicraspberrypi">BasicRaspberrypi</a></li></ul><ul></ul></li><br><li><span>Solutions</span><ul><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/projectsolutions">Project Solutions</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/cowbell_sol1">CowBell Solution1</a></li></ul><ul></ul></li><br><li><span>Contributors</span><ul><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/about">About HackProject.org</a></li><li><a href="http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/supporters">Support HackProject.org</a></li></ul><ul></ul></li><br></ul></div></div><div class="col-sm-9 col-md-10 col-lg-9 col-sm-offset-3 col-md-offset-2 col-lg-offset-9 main"><div class="page-header"><h1>Modern Cowbell - Solution (rural Nepal)</h1><small></small></div>
+
+<p><strong>Proposed by</strong> Pravin Raj Joshi</p>
+
+<h3 id="solution:c4631a851d3669f332b3342058b42d86">Solution</h3>
+
+<h3 id="material-used:c4631a851d3669f332b3342058b42d86">Material used</h3>
+
+<p>radBeacon &ndash; <a href="http://www.amazon.com/Radius-Networks-RadBeacon-Dot-Technology/dp/B00JJ4P864/ref=sr_1_5?ie=UTF8&amp;qid=1459677045&amp;sr=8-5&amp;keywords=ibeacon">http://www.amazon.com/Radius-Networks-RadBeacon-Dot-Technology/dp/B00JJ4P864/ref=sr_1_5?ie=UTF8&amp;qid=1459677045&amp;sr=8-5&amp;keywords=ibeacon</a>
+piBeacon &ndash; <a href="http://store.radiusnetworks.com/products/pibeacon">http://store.radiusnetworks.com/products/pibeacon</a></p>
+
+<p><strong>Deviation</strong> does not use mobile device</p>
+
+<p><strong>Value of solution</strong> faster to production. Cheaper and more easily usable that mobile.</p>
+
+<h3 id="steps:c4631a851d3669f332b3342058b42d86">Steps</h3>
+
+<p>&ndash; make sure the radBeacon is &ldquo;ON&rdquo; by clicking on the small button. It will blink green when it goes on. The battery will last for a year.
+&ndash; put radBeacon around the cow&rsquo;s neck as necklace using strong rope.
+&ndash; Let the cows wonder off to graze.
+&ndash; While tracking the cows, start the raspberry pi by providing it power.
+&ndash; You will see a green light glow when raspberry pi goes on.
+&ndash; Move around with the pi to known locations to find cow.
+&ndash; The raspberry pi will give beeping sound when a cow comes near its field.</p>
+
+<h3 id="implementation-of-the-raspberry-pi:c4631a851d3669f332b3342058b42d86">Implementation of the raspberry pi</h3>
+
+<h3 id="algorithm:c4631a851d3669f332b3342058b42d86">Algorithm</h3>
+
+<ul>
+<li>Scan bluetooth IO for beacon every 250ms</li>
+<li>When beacon found check against cow beacon id</li>
+<li>When known beacon found, trigger alarm</li>
+<li>When unknown beacon found, continue search</li>
+</ul>
+
+<p>Github link to project code : [<a href="http://github.com/hackproject/">http://github.com/hackproject/</a>]</p>
+
+<p>My notes at Google Notes and Keep :
+Discuss on Slack #cowBell Channel : hackproject
+Read complete project on Medium :
+Post comment on Twitter #hakcproject:cowBell
+Schedule Mentoring session on skype : public google calendar or claralabs
+Pre-req for mentoring :
+    - should know basic howto of raspberry pi
+    - should know basic of ibeacon
+    - should know simple python</p>
+</div></div></body></html>

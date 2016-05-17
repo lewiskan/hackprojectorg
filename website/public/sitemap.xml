@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicmobile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicpython/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/basicraspberrypi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/learn/learnskills/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/project/cowbell/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/cowbell_sol1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/solution/projectsolutions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/propose/proposeproject/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lewiskan.github.io/hackprojectorg/website/public/docs/contributors/supporters/</loc>
+  </url>
+  
+</urlset>

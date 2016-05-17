@@ -1,0 +1,45 @@
+baseurl: http://lewiskan.github.io/hackprojectorg/website/public/
+languageCode: en-us
+title: HackProject.org
+author: Lewis Kaneshiro
+contentdir: content
+layoutdir: layouts
+publishdir: public
+canonifyurls: true
+
+# Site-level config
+MetaDataFormat: yaml
+NewContentEditor: atom
+taxonomies:
+  tag: tags
+
+# Pygments syntax highlighting
+pygmentsStyle: manni
+pygmentsuseclasses: false
+PygmentsCodeFences: true
+
+# Top navigation menu (weights are to prevent alphabetical ordering)
+menu:
+  main:
+    - Name: Getting Started
+      URL: /docs/developers/getting-started
+      Weight: 1
+    - Name: Docs
+      URL: /docs
+      Weight: 2
+
+# Site-level parameters available through .Site.Params.{key}
+params:
+  author: Lewis Kaneshiro
+  versions:
+    metricsapi: 0.1.0
+    schedulerapi: 0.1.0
+    topologyapi: 0.1.0
+  assets:
+    logo: /img/two-puffins.jpg #logo.png
+    css:
+      - /css/style.min.css
+    js:
+      - //code.jquery.com/jquery-2.2.1.min.js
+      - /js/app.min.js
+  tagline: Propose projects, learn, teach, and hack for extreme affordability 

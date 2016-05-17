@@ -1,0 +1,146 @@
+= doctype html
+html lang={{.Site.LanguageCode}}
+  head 
+    {{partial "meta.html" .}}
+    title {{.Site.Title}}
+    {{partial "css.includes.html" .}}
+    {{partial "js.includes.html" .}}
+  body
+    {{partial "navbar.html" .}}
+    .container-fluid
+      .row
+        .jumbotron.text-center
+          #img.img-responsive.pull-left src={{.Site.Params.assets.logo}} 
+          h1 {{.Site.Title}}
+          p {{.Site.Params.tagline}}
+      .landing-feature-2
+        .container style="text-align: center;"
+          .row
+            .col-sm-12
+              h1 Join us on Slack
+          .row
+            .col-sm-12
+            a.btn.btn-info href=https://hackprojectorg.slack.com/messages/general/ HackProject.org on Slack 
+          .row
+            .col-sm-12
+              h1 What is HackProject.org?
+          .row
+            .col-sm-3
+              h3  Real-world projects 
+              p Bridge the gap between hacking for fun and hacking for purpose with actual projects proposed with real-world limitations.
+            .col-sm-3
+              h3 Find a Project
+              p Select a project that fits your current expertise, or choose a new challenge and learn new skills.
+            .col-sm-3
+              h3 Learn or Teach skills
+              p Learn programming, mechanical, design, or other skills by joining the HackProject.org community.
+            .col-sm-3
+              h3 Share and improve on solution implementations
+              p Solutions are current implementations that can always be improved or adapted.  
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-12
+              h2 HackProject EcoSystem
+              p Active Projects, Lessons, and Proposed Solutions
+          .row 
+            .col-sm-4
+              h2 Modern Cowbell 
+              p Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth.  Find a solution to keep track of family cows (4) to reduce constant monitoring need.  
+              p Constraints: No internet, WiFi connection
+              a href=https://youtu.be/W0D2qw_E91k CowBell Video submission (rural Nepal)
+              p
+              a href=docs/project/cowbell CowBell Written submission (rural Nepal)
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Basic Raspberry Pi
+              p
+              a href=docs/contributors/supporters NEEDED Basic Algorithms (Python)
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/solution/cowbell_sol1 Written Solution (proposed by Pravin, rural Nepal)
+              p
+              a href=docs/contributors/supporters Solution Video
+      .landing-feature-2
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Scarce Water Monitoring 
+              p Agricultural farm with scarce water.  20-minute each way to water source.  Problem: keep track of water moisture level on fields to alert farmers of watering needs and optimize travel time to water source.  
+              p Constraints: Smartphone with WiFi, Bluetooth
+              a href=https://www.youtube.com/watch?v=jFDCgfnswoA&ebc=ANyPxKpqFsZciY2y4L8qJL_kCVivtGb1xIqBjDtTl2xKx0LHdm9qeu0UdOKmCHBqLRBMONUaaPddYIp_JL9PbwcxYYXkEwdrwQ&nohtml5=False Scarce Water Submission (rural Nepal)
+            .col-sm-4
+              h2 Lessons
+              p Shailendra is currently working towards creating a
+              a href=http://www.afforestt.com/methodology.html rapid forest 
+
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 NOAA Weather images download
+              p Looking for solution to tracking NOAA satellites to obtain satellite images using Raspberry Pi.
+              p Constraints: Raspberry Pi
+              a href=https://www.youtube.com/watch?v=52raoYzGxH0&ebc=ANyPxKq70Oe_v4NW7ql8wRTBpvW4kujh_AOrnXjdd-mxdn5gze0J92yiz5dUmm6X3pWgBbGN853ig4Yn3gC5sSbsKvT7gXYiLQ&nohtml5=False NOAA images using Raspberry Pi (rural Nepal)
+            .col-sm-4
+              h2 Lessons
+              a href=https://www.youtube.com/watch?v=FpLnuRbShTI&feature=youtu.be Basic Antenna Video
+              p
+              a href=https://youtu.be/A2CjzlV5aHQ gpredict Satellite use 
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .hero-bar
+        .container
+          .row
+            p   
+            p  
+            p  
+      .hero-bar 
+        .container style="text-align: center;"
+          .row 
+            .col-sm-3
+              h4 Propose a Project
+              a.btn.btn-success href=docs/propose/proposeproject Propose Project
+            .col-sm-3
+              h4 Find a Project
+              a.btn.btn-success href=docs/project/projects Projects
+            .col-sm-3
+              h4 Learn skills for Project
+              a.btn.btn-success href=docs/learn/learnskills Learn
+            .col-sm-3
+              h4 Project Solutions
+              a.btn.btn-success href=docs/solution/projectsolutions Solutions
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-12
+              h2 HackProject.org is in Beta
+              p Join the community by learning, teaching, and sharing!
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-12
+              h2 About HackProject.org
+              a href=docs/contributors/about About HackProject.org
+          .row 
+            .col-sm-12
+              a href=docs/contributors/supporters Support HackProject.org
+    .footer
+      .container
+        .row
+          .col-lg-12
+            .text-muted 
+              p © 2016 HackProject.org
+
+
+
+
+
