@@ -1,7 +1,9 @@
 ---
 title: Propose a Project
 ---
-Describe via text and, if possible, with a short 5 minute video, a real-world problem that can be explored by the HackProject.org community.  
+Propose a real-world project by posting to [Medium](https://medium.com/) referencing "HackProject.org" and tweet the Medium link using #hackprojectorg. If possible, create a short 5 minute video. 
+
+We review the #hackprojectorg twitter each month to select trending problems to add to the site.  Have your followers retweet your problem to generate interest from the HackProject.org community!
 
 ## Discuss on Slack!
 [HackProject.org on Slack](https://hackprojectorg.slack.com/messages/project-proposals/)

@@ -13,36 +13,33 @@ html lang={{.Site.LanguageCode}}
           #img.img-responsive.pull-left src={{.Site.Params.assets.logo}} 
           h1 {{.Site.Title}}
           p {{.Site.Params.tagline}}
-      .landing-feature-2
+      .col-xs-12.col-sm-9.col-md-9.col-lg-9
+        .landing-feature-2.text-left
         .container style="text-align: center;"
           .row
-            .col-sm-12
-              h1 Join us on Slack
-          .row
-            .col-sm-12
-            a.btn.btn-info href=https://hackprojectorg.slack.com/messages/general/ HackProject.org on Slack 
-          .row
-            .col-sm-12
-              h1 What is HackProject.org?
+            .col-sm-9
+              h2 What is HackProject.org?
           .row
             .col-sm-3
               h3  Real-world projects 
               p Bridge the gap between hacking for fun and hacking for purpose with actual projects proposed with real-world limitations.
             .col-sm-3
-              h3 Find a Project
-              p Select a project that fits your current expertise, or choose a new challenge and learn new skills.
-            .col-sm-3
               h3 Learn or Teach skills
               p Learn programming, mechanical, design, or other skills by joining the HackProject.org community.
             .col-sm-3
               h3 Share and improve on solution implementations
-              p Solutions are current implementations that can always be improved or adapted.  
+              p Solutions are current implementations that can always be improved or adapted.
+      .hn-twitter-feed.hidden-xs.col-sm-3.col-md-3.col-lg-3
+        {{partial "index/feed.html" .}}  
       .landing-feature-1
         .container style="text-align: center;"
-          .row 
+          .row
             .col-sm-12
-              h2 HackProject EcoSystem
-              p Active Projects, Lessons, and Proposed Solutions
+              h3 Basic Raspberry Pi Lessons
+            .col-sm-6
+              a href=https://www.youtube.com/watch?v=UnjhzoDBqa4&ab_channel=BivavSatyal Initial Raspberry Pi Setup (7 mins)
+            .col-sm-6
+              a href=https://www.youtube.com/watch?v=zZ9WQQ5O0FQ&ab_channel=BivavSatyal Connect Raspberry Pi with OpenSHH (4 mins)
           .row 
             .col-sm-4
               h2 Modern Cowbell 
@@ -53,8 +50,6 @@ html lang={{.Site.LanguageCode}}
               a href=docs/project/cowbell CowBell Written submission (rural Nepal)
             .col-sm-4
               h2 Lessons
-              a href=docs/contributors/supporters NEEDED Basic Raspberry Pi
-              p
               a href=docs/contributors/supporters NEEDED Basic Algorithms (Python)
             .col-sm-4
               h2 Proposed Solutions
@@ -105,19 +100,16 @@ html lang={{.Site.LanguageCode}}
             p  
       .hero-bar 
         .container style="text-align: center;"
+          .row
+            .col-sm-12
+              h1 Join us on Slack
+          .row
+            .col-sm-12
+            a.btn.btn-info href=https://hackprojectorg.slack.com/messages/general/ HackProject.org on Slack 
           .row 
-            .col-sm-3
+            .col-sm-12
               h4 Propose a Project
               a.btn.btn-success href=docs/propose/proposeproject Propose Project
-            .col-sm-3
-              h4 Find a Project
-              a.btn.btn-success href=docs/project/projects Projects
-            .col-sm-3
-              h4 Learn skills for Project
-              a.btn.btn-success href=docs/learn/learnskills Learn
-            .col-sm-3
-              h4 Project Solutions
-              a.btn.btn-success href=docs/solution/projectsolutions Solutions
       .landing-feature-1
         .container style="text-align: center;"
           .row 
@@ -133,13 +125,16 @@ html lang={{.Site.LanguageCode}}
           .row 
             .col-sm-12
               a href=docs/contributors/supporters Support HackProject.org
+      .hn-twitter-feed.hidden-xs.col-sm-3.col-md-3.col-lg-3
+       {{partial "index/twitter-timeline.html" .}}
     .footer
       .container
         .row
           .col-lg-12
             .text-muted 
               p © 2016 HackProject.org
-
+      script src=http://code.jquery.com/jquery-2.2.1.min.js
+      script src=/js/app.min.js
 
 
 

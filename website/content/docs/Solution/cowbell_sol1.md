@@ -30,7 +30,7 @@ piBeacon -- http://store.radiusnetworks.com/products/pibeacon
 - When unknown beacon found, continue search
 
 
-Github link to project code : [http://github.com/hackproject/]
+Github link to project code : [http://github.com/lewiskan/hackprojectorg]
 
 My notes at Google Notes and Keep :
 Discuss on Slack #cowBell Channel : hackproject

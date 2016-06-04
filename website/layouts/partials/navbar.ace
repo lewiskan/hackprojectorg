@@ -7,9 +7,3 @@ nav.navbar.navbar-inverse.navbar-fixed-top role=navigation
       ul.nav.navbar-nav.navbar-right
         li
           a href=/docs/propose/proposeproject Propose a Project
-        li
-          a href=/docs/project/projects Find a Project
-        li
-          a href=/docs/learn/learnskills Learn for a Project
-        li
-          a href=/docs/solution/projectsolutions/ Project Solutions
