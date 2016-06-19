@@ -36,7 +36,7 @@ params:
     schedulerapi: 0.1.0
     topologyapi: 0.1.0
   assets:
-    logo: /img/two-puffins.jpg #logo.png
+    logo: /img/HackProject-cows.png #logo.png
     css:
       - /css/style.min.css
     js:

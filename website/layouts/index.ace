@@ -35,11 +35,15 @@ html lang={{.Site.LanguageCode}}
         .container style="text-align: center;"
           .row
             .col-sm-12
-              h3 Basic Raspberry Pi Lessons
+              h2 Basic Raspberry Pi Lessons
             .col-sm-6
               a href=https://www.youtube.com/watch?v=UnjhzoDBqa4&ab_channel=BivavSatyal Initial Raspberry Pi Setup (7 mins)
             .col-sm-6
               a href=https://www.youtube.com/watch?v=zZ9WQQ5O0FQ&ab_channel=BivavSatyal Connect Raspberry Pi with OpenSHH (4 mins)
+          .row 
+            .col-sm-12
+              h2 Propose a Project
+              a.btn.btn-success href=docs/propose/proposeproject Propose Project
           .row 
             .col-sm-4
               h2 Modern Cowbell 
@@ -106,10 +110,6 @@ html lang={{.Site.LanguageCode}}
           .row
             .col-sm-12
             a.btn.btn-info href=https://hackprojectorg.slack.com/messages/general/ HackProject.org on Slack 
-          .row 
-            .col-sm-12
-              h4 Propose a Project
-              a.btn.btn-success href=docs/propose/proposeproject Propose Project
       .landing-feature-1
         .container style="text-align: center;"
           .row 
