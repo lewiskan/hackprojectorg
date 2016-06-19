@@ -29,6 +29,10 @@ html lang={{.Site.LanguageCode}}
             .col-sm-3
               h3 Share and improve on solution implementations
               p Solutions are current implementations that can always be improved or adapted.
+          .row 
+            .col-sm-9
+              h2 Propose a Project
+              a.btn.btn-success href=docs/propose/proposeproject Propose Project
       .hn-twitter-feed.hidden-xs.col-sm-3.col-md-3.col-lg-3
         {{partial "index/feed.html" .}}  
       .landing-feature-1
@@ -40,10 +44,6 @@ html lang={{.Site.LanguageCode}}
               a href=https://www.youtube.com/watch?v=UnjhzoDBqa4&ab_channel=BivavSatyal Initial Raspberry Pi Setup (7 mins)
             .col-sm-6
               a href=https://www.youtube.com/watch?v=zZ9WQQ5O0FQ&ab_channel=BivavSatyal Connect Raspberry Pi with OpenSHH (4 mins)
-          .row 
-            .col-sm-12
-              h2 Propose a Project
-              a.btn.btn-success href=docs/propose/proposeproject Propose Project
           .row 
             .col-sm-4
               h2 Modern Cowbell 
