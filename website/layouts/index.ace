@@ -100,8 +100,8 @@ html lang={{.Site.LanguageCode}}
         .container style="text-align: center;"
           .row 
             .col-sm-4
-              h2 Corn Roasting - can it be done better with technology?
-              p Even and consistent corn roasting over an open fire can be improved.
+              h2 Corn Roasting - Maize Sellers *
+              p Even and consistent corn roasting over an open fire can be improved, can it be done by technology
               p Constraints: Raspberry Pi
               a href=https://youtu.be/0A2dewpUlMg Improving Corn Roasting using Raspberry Pi - YouTube (rural Nepal)
               p
