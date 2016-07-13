@@ -96,6 +96,24 @@ html lang={{.Site.LanguageCode}}
               a href=docs/contributors/supporters NEEDED Solution Writeup
               p
               a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Corn Roasting - can it be done better with technology?
+              p Even and consistent corn roasting over an open fire can be improved.
+              p Constraints: Raspberry Pi
+              a href=https://youtu.be/0A2dewpUlMg Improving Corn Roasting using Raspberry Pi - YouTube (rural Nepal)
+              p
+              a href=https://medium.com/@pravenj/corn-roasting-can-it-be-done-better-for-tika-c03edae457cd#.5o8wdz5uf Improving Corn Roasting using Raspberry Pi - Medium (rural Nepal)
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Corn Roasting - Raspberry Pi Lessons
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
       .hero-bar
         .container
           .row
