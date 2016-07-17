@@ -38,12 +38,6 @@ html lang={{.Site.LanguageCode}}
       .landing-feature-1
         .container style="text-align: center;"
           .row
-            .col-sm-12
-              h2 Basic Raspberry Pi Lessons
-            .col-sm-6
-              a href=https://www.youtube.com/watch?v=UnjhzoDBqa4&ab_channel=BivavSatyal Initial Raspberry Pi Setup (7 mins)
-            .col-sm-6
-              a href=https://www.youtube.com/watch?v=zZ9WQQ5O0FQ&ab_channel=BivavSatyal Connect Raspberry Pi with OpenSHH (4 mins)
           .row 
             .col-sm-4
               h2 Modern Cowbell 
@@ -54,7 +48,18 @@ html lang={{.Site.LanguageCode}}
               a href=docs/project/cowbell CowBell Written submission (rural Nepal)
             .col-sm-4
               h2 Lessons
-              a href=docs/contributors/supporters NEEDED Basic Algorithms (Python)
+              h4 Basic Raspberry Pi Lessons
+              p
+              a href=https://youtu.be/uuDGAXA_EqM?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Setting up Raspberry Pi (5 mins)
+              p
+              a href=https://youtu.be/7a8TZhdM4OQ?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Installing Raspbian on SD card (4 mins)
+              p
+              a href=https://youtu.be/9FVr3ryIwaw?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Basic Linux commands for Raspberry Pi Part I (7 mins)
+              p
+              a href=https://youtu.be/zZ9WQQ5O0FQ?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Using SSH to connect to Raspberry Pi remotely (4 mins)
+              p
+              a href=https://youtu.be/4rVTPHH4D6g?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Accessing Pi's Graphical User Interface using tightvncserver (6 mins)
+              p
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/solution/cowbell_sol1 Written Solution (proposed by Pravin, rural Nepal)
@@ -100,7 +105,7 @@ html lang={{.Site.LanguageCode}}
         .container style="text-align: center;"
           .row 
             .col-sm-4
-              h2 Corn Roasting - Maize Sellers *
+              h2 Corn Roasting - Maize Sellers
               p Even and consistent corn roasting over an open fire can be improved, can it be done by technology
               p Constraints: Raspberry Pi
               a href=https://youtu.be/0A2dewpUlMg Improving Corn Roasting using Raspberry Pi - YouTube (rural Nepal)
@@ -114,6 +119,24 @@ html lang={{.Site.LanguageCode}}
               a href=docs/contributors/supporters NEEDED Solution Writeup
               p
               a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Information System on Public Transportation
+              p Need a cheap system that notifes the passengers about their destinations. Public transportation would be fun if the system gave other additional information like what the places on routes are famous for, where good restaurants are etc.
+              p Constraints: Raspberry Pi, GPS technology, Google Maps, Open Street Maps
+              a href=https://youtu.be/ETZiRrTd3qE Bus Problem - YouTube (Nepal)
+              p
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Bus Problem - Raspberry Pi Lessons, Using Google Map and Open Street Map APIs, 
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+
       .hero-bar
         .container
           .row
