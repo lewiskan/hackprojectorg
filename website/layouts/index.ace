@@ -130,13 +130,29 @@ html lang={{.Site.LanguageCode}}
               p
             .col-sm-4
               h2 Lessons
-              a href=docs/contributors/supporters NEEDED Bus Problem - Raspberry Pi Lessons, Using Google Map and Open Street Map APIs, 
+              a href=docs/contributors/supporters NEEDED Bus Problem - Raspberry Pi Lessons, Using Google Map and Open Street Map APIs
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
               p
               a href=docs/contributors/supporters NEEDED Solution Video
-
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Help Us Express
+              p Need a platform that can help young teenage girls in developing countries express themselves openly. Solution needs to be targeted to social settings where girls have difficulty  having conversations about thier  physiological health, mental and emotional wellbeing, and different social issues that they face.
+              p Constraints: Specially designed videos, Apps that can run on cheap smartphones, Low bandwith internet
+              a href=https://youtu.be/TgE8GXSzDZM Help Us Express - YouTube (Nepal)
+              p
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Help Us Express - Andorid App lessons 
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video             
       .hero-bar
         .container
           .row
