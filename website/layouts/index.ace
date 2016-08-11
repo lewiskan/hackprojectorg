@@ -38,28 +38,32 @@ html lang={{.Site.LanguageCode}}
       .landing-feature-1
         .container style="text-align: center;"
           .row
-          .row 
-            .col-sm-4
-              h2 Modern Cowbell 
-              p Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth.  Find a solution to keep track of family cows (4) to reduce constant monitoring need.  
-              p Constraints: No internet, WiFi connection
-              a href=https://youtu.be/W0D2qw_E91k CowBell Video submission (rural Nepal)
-              p
-              a href=docs/project/cowbell CowBell Written submission (rural Nepal)
-            .col-sm-4
-              h2 Lessons
-              h4 Basic Raspberry Pi Lessons
+            .col-sm-12
+              h2 Basic Raspberry Pi Lessons
+          .row
+            .col-sm-6
               p
               a href=https://youtu.be/uuDGAXA_EqM?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Setting up Raspberry Pi (5 mins)
               p
               a href=https://youtu.be/7a8TZhdM4OQ?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Installing Raspbian on SD card (4 mins)
               p
               a href=https://youtu.be/9FVr3ryIwaw?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Basic Linux commands for Raspberry Pi Part I (7 mins)
-              p
+            .col-sm-6
               a href=https://youtu.be/zZ9WQQ5O0FQ?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Using SSH to connect to Raspberry Pi remotely (4 mins)
               p
               a href=https://youtu.be/4rVTPHH4D6g?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Accessing Pi's Graphical User Interface using tightvncserver (6 mins)
               p
+          .row 
+            .col-sm-4
+              h2 Modern Cowbell
+              p Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth.  Find a solution to keep track of family cows to reduce constant monitoring need.  
+              p Constraints: No internet, WiFi connection
+              a href=https://youtu.be/W0D2qw_E91k CowBell Video submission (rural Nepal)
+              p
+              a href=docs/project/cowbell CowBell Written submission (rural Nepal)
+            .col-sm-4
+              h2 Lessons
+
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/solution/cowbell_sol1 Written Solution (proposed by Pravin, rural Nepal)
@@ -114,6 +118,10 @@ html lang={{.Site.LanguageCode}}
             .col-sm-4
               h2 Lessons
               a href=docs/contributors/supporters NEEDED Corn Roasting - Raspberry Pi Lessons
+              p
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
@@ -128,9 +136,14 @@ html lang={{.Site.LanguageCode}}
               p Constraints: Raspberry Pi, GPS technology, Google Maps, Open Street Maps
               a href=https://youtu.be/ETZiRrTd3qE Bus Problem - YouTube (Nepal)
               p
+              a href=https://medium.com/@pravenj/inform-the-puzzled-call-for-a-public-vehicle-information-system-de582fd09a44#.dqx1kckxs Inform the puzzled — call for a public vehicle information system - Medium 
             .col-sm-4
               h2 Lessons
               a href=docs/contributors/supporters NEEDED Bus Problem - Raspberry Pi Lessons, Using Google Map and Open Street Map APIs
+              p
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
@@ -141,18 +154,78 @@ html lang={{.Site.LanguageCode}}
           .row 
             .col-sm-4
               h2 Help Us Express
-              p Need a platform that can help young teenage girls in developing countries express themselves openly. Solution needs to be targeted to social settings where girls have difficulty  having conversations about thier  physiological health, mental and emotional wellbeing, and different social issues that they face.
+              p Need a platform that can help young teenage girls in developing countries to express themselves openly. Solution needs to be targeted to social settings where girls have difficulty  having conversations about thier  physiological health, mental and emotional wellbeing, and different social issues that they face.
               p Constraints: Specially designed videos, Apps that can run on cheap smartphones, Low bandwith internet
               a href=https://youtu.be/TgE8GXSzDZM Help Us Express - YouTube (Nepal)
               p
             .col-sm-4
               h2 Lessons
-              a href=docs/contributors/supporters NEEDED Help Us Express - Andorid App lessons 
+              a href=docs/contributors/supporters NEEDED Help Us Express - Andorid App lessons
+              p
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
               p
-              a href=docs/contributors/supporters NEEDED Solution Video             
+              a href=docs/contributors/supporters NEEDED Solution Video 
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Locate missing people during disasters
+              p Can we use technology to locate missing people in disasters like flashfloods, landslides, and earthquakes?
+              p Constraints: Mobile phones, Raspberry Pi, bluetooth, wifi, signals
+              a href=https://www.youtube.com/watch?v=CFo-GDQFLGo Find missing people during natural disasters - Youtube
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video 
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Doughnut making problem
+              p Need a simple and affordable technology to automate the task of making doughnuts - from preparing the dough to frying. Is it possibe to find a hack for this?
+              p Constraints: Raspberry Pi, sensors
+              a href=https://www.youtube.com/watch?v=sGVZT1-UMsA Doughnut making problem - YouTube
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Simplify Communication, Create Understanding
+              p Speech and hearing impared students in Nepal ask "Can a robot or some technological device be created, that we can afford, that will allow us to communicate better?”
+              p Constraints: Raspberry Pi, sensors, mobile phones
+              a href=https://www.youtube.com/watch?v=uYZhPmBO_08&feature=youtu.be Simplify communication for speech and hearing impared people - YouTube
+              p
+              a href=https://medium.com/@pravenj/simplify-communication-create-understanding-9ae5d5fc83e1#.l22ctwxem Simplify communication, create understanding - Medium
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video                 
       .hero-bar
         .container
           .row
