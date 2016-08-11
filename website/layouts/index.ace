@@ -55,7 +55,7 @@ html lang={{.Site.LanguageCode}}
               p
           .row 
             .col-sm-4
-              h2 Modern Cowbell 
+              h2 Modern Cowbell -- cowbell with a difference 
               p Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth.  Find a solution to keep track of family cows to reduce constant monitoring need.  
               p Constraints: No internet, WiFi connection
               a href=https://youtu.be/W0D2qw_E91k CowBell Video submission (rural Nepal)
