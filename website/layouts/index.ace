@@ -38,46 +38,52 @@ html lang={{.Site.LanguageCode}}
       .landing-feature-1
         .container style="text-align: center;"
           .row
-          .row 
-            .col-sm-4
-              h2 Modern Cowbell 
-              p Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth.  Find a solution to keep track of family cows (4) to reduce constant monitoring need.  
-              p Constraints: No internet, WiFi connection
-              a href=https://youtu.be/W0D2qw_E91k CowBell Video submission (rural Nepal)
-              p
-              a href=docs/project/cowbell CowBell Written submission (rural Nepal)
-            .col-sm-4
-              h2 Lessons
-              h4 Basic Raspberry Pi Lessons
+            .col-sm-12
+              h2 Basic Raspberry Pi Lessons
+          .row
+            .col-sm-6
               p
               a href=https://youtu.be/uuDGAXA_EqM?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Setting up Raspberry Pi (5 mins)
               p
               a href=https://youtu.be/7a8TZhdM4OQ?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Installing Raspbian on SD card (4 mins)
               p
               a href=https://youtu.be/9FVr3ryIwaw?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Basic Linux commands for Raspberry Pi Part I (7 mins)
-              p
+            .col-sm-6
               a href=https://youtu.be/zZ9WQQ5O0FQ?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Using SSH to connect to Raspberry Pi remotely (4 mins)
               p
               a href=https://youtu.be/4rVTPHH4D6g?list=PLdTRZ3sWnDGEAme0TxOM187wMTqDlSzVK Accessing Pi's Graphical User Interface using tightvncserver (6 mins)
+          .row
+            .col-sm-4
+              h2 Modern Cowbell - Track cattle remotely
+              p Design a cheap, affordable cowbell accessible by feature mobile with BlueTooth.  Find a solution to keep track of family cows to reduce constant monitoring need.  
               p
+              a href=https://youtu.be/Eyv93STNEFQ See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/tracking-cattle-itfied-35f4088f42d8#.tg1sr374y See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-cowbell/files/F26TA142E/ Collaborate on Slack
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
             .col-sm-4
               h2 Proposed Solutions
-              a href=docs/solution/cowbell_sol1 Written Solution (proposed by Pravin, rural Nepal)
-              p
-              a href=docs/contributors/supporters Solution Video
+              a href=https://medium.com/@pravenj/tracking-cattle-itfied-35f4088f42d8#.tg1sr374y Proposed solution 1
       .landing-feature-2
         .container style="text-align: center;"
           .row 
             .col-sm-4
               h2 Scarce Water Monitoring 
               p Agricultural farm with scarce water.  20-minute each way to water source.  Problem: keep track of water moisture level on fields to alert farmers of watering needs and optimize travel time to water source.  
-              p Constraints: Smartphone with WiFi, Bluetooth
-              a href=https://www.youtube.com/watch?v=jFDCgfnswoA&ebc=ANyPxKpqFsZciY2y4L8qJL_kCVivtGb1xIqBjDtTl2xKx0LHdm9qeu0UdOKmCHBqLRBMONUaaPddYIp_JL9PbwcxYYXkEwdrwQ&nohtml5=False Scarce Water Submission (rural Nepal)
+              p
+              a href=https://youtu.be/jFDCgfnswoA See problem video on YouTube
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-scarce_water/files/F26TA142E/ Collaborate on Slack 
             .col-sm-4
               h2 Lessons
               p Shailendra is currently working towards creating a
               a href=http://www.afforestt.com/methodology.html rapid forest 
-
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
@@ -87,33 +93,41 @@ html lang={{.Site.LanguageCode}}
         .container style="text-align: center;"
           .row 
             .col-sm-4
-              h2 NOAA Weather images download
-              p Looking for solution to tracking NOAA satellites to obtain satellite images using Raspberry Pi.
-              p Constraints: Raspberry Pi
-              a href=https://www.youtube.com/watch?v=52raoYzGxH0&ebc=ANyPxKq70Oe_v4NW7ql8wRTBpvW4kujh_AOrnXjdd-mxdn5gze0J92yiz5dUmm6X3pWgBbGN853ig4Yn3gC5sSbsKvT7gXYiLQ&nohtml5=False NOAA images using Raspberry Pi (rural Nepal)
+              h2 Get Weather Images from NOAA satellites
+              p Acquisition of NOAA satellite images for education.
+              p
+              a href=https://youtu.be/52raoYzGxH0 See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/get-weather-images-from-noaa-satellites-a030dabe72a4#.29gqapkwo See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-noaaimages/files/F26TA142E/ Collaborate on Slack
             .col-sm-4
               h2 Lessons
-              a href=https://www.youtube.com/watch?v=FpLnuRbShTI&feature=youtu.be Basic Antenna Video
+              a href=https://youtu.be/FpLnuRbShTI YouTube - Make yaagi antennas
               p
-              a href=https://youtu.be/A2CjzlV5aHQ gpredict Satellite use 
+              a href=https://youtu.be/A2CjzlV5aHQ YouTube - How to use gPredict
             .col-sm-4
               h2 Proposed Solutions
-              a href=docs/contributors/supporters NEEDED Solution Writeup
-              p
-              a href=docs/contributors/supporters NEEDED Solution Video
+              a href=https://medium.com/@pravenj/get-weather-images-from-noaa-satellites-a030dabe72a4#.29gqapkwo Proposed solution on Medium
       .landing-feature-1
         .container style="text-align: center;"
           .row 
             .col-sm-4
-              h2 Corn Roasting - Maize Sellers
-              p Even and consistent corn roasting over an open fire can be improved, can it be done by technology
-              p Constraints: Raspberry Pi
-              a href=https://youtu.be/0A2dewpUlMg Improving Corn Roasting using Raspberry Pi - YouTube (rural Nepal)
+              h2 Corn roasting — can it be done better for Tika
+              p Even and consistent corn roasting over an open fire can be improved, can it be done by technology?
               p
-              a href=https://medium.com/@pravenj/corn-roasting-can-it-be-done-better-for-tika-c03edae457cd#.5o8wdz5uf Improving Corn Roasting using Raspberry Pi - Medium (rural Nepal)
+              a href=https://youtu.be/0A2dewpUlMg See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/corn-roasting-can-it-be-done-better-for-tika-c03edae457cd#.g9xsvlify See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-corn_roasting/files/F26TA142E/ Collaborate on Slack
             .col-sm-4
               h2 Lessons
               a href=docs/contributors/supporters NEEDED Corn Roasting - Raspberry Pi Lessons
+              p
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
@@ -124,13 +138,20 @@ html lang={{.Site.LanguageCode}}
           .row 
             .col-sm-4
               h2 Information System on Public Transportation
-              p Need a cheap system that notifes the passengers about their destinations. Public transportation would be fun if the system gave other additional information like what the places on routes are famous for, where good restaurants are etc.
-              p Constraints: Raspberry Pi, GPS technology, Google Maps, Open Street Maps
-              a href=https://youtu.be/ETZiRrTd3qE Bus Problem - YouTube (Nepal)
+              p Need a cheap system that notifes the passengers about their destinations.
               p
+              a href=https://youtu.be/ETZiRrTd3qE See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/inform-the-puzzled-call-for-a-public-vehicle-information-system-de582fd09a44#.3orv4g4vw See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-info_system/files/F26TA142E/ Collaborate on Slack
             .col-sm-4
               h2 Lessons
               a href=docs/contributors/supporters NEEDED Bus Problem - Raspberry Pi Lessons, Using Google Map and Open Street Map APIs
+              p
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
@@ -141,13 +162,171 @@ html lang={{.Site.LanguageCode}}
           .row 
             .col-sm-4
               h2 Help Us Express
-              p Need a platform that can help young teenage girls in developing countries express themselves openly. Solution needs to be targeted to social settings where girls have difficulty  having conversations about thier  physiological health, mental and emotional wellbeing, and different social issues that they face.
-              p Constraints: Specially designed videos, Apps that can run on cheap smartphones, Low bandwith internet
-              a href=https://youtu.be/TgE8GXSzDZM Help Us Express - YouTube (Nepal)
+              p Need a platform that can help young teenage girls in developing countries to express themselves openly.
               p
+              a href=https://youtu.be/TgE8GXSzDZM See problem video on YouTube
+              p
+              a href=https://medium.com/@s_dhungel/expresstech-cbc5cfbd3903#.t6yxpywtc See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-help_express/files/F26TA142E/ Collaborate on Slack
             .col-sm-4
               h2 Lessons
-              a href=docs/contributors/supporters NEEDED Help Us Express - Andorid App lessons 
+              a href=docs/contributors/supporters NEEDED Help Us Express - Andorid App lessons
+              p
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video 
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Doughnut making problem
+              p Need a simple and affordable technology to automate the task of making doughnuts - from preparing the dough to frying. Is it possibe to find a hack for this?
+              p
+              a href=https://youtu.be/sGVZT1-UMsA See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/better-doughnut-makers-for-more-breakfasts-b68f7a169eb6#.ixf5cb7ky See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-doughnut/files/F26TA142E/ Collaborate on Slack
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Simplify Communication, Create Understanding
+              p "Can an affordable robot or some technological device be created that will allow us to communicate better?”
+              p Speech and hearing impared students in Nepal ask.
+              a href=https://www.youtube.com/watch?v=uYZhPmBO_08&feature=youtu.be See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/simplify-communication-create-understanding-9ae5d5fc83e1#.ee0179149 See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-simplify_comm/files/F26TA142E/ Collaborate on Slack
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Need of early warning system: Impact with IoT?
+              p The absence of a working early warning and communication system to notify people in remote areas about flash floods is resulting in loss of lives and property.
+              p Is it possible to use IoT to slove this problem?
+              p
+              a href=https://medium.com/@pravenj/hackproject-org-impact-with-iot-august-2016-654190daa0ca#.9bwcz7f53 See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-early_warning/files/F26TA142E/ Collaborate on Slack
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video 
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Animal warning system
+              p Need a solution for human-animal conflict in areas near wildlife parks in Nepal.
+              p
+              a href=https://youtu.be/2KdY00Tksjk See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/hackproject-org-animal-warning-system-august-2016-ed311582d39c#.eajcqwrky See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-animalwarning/files/F26TA142E/ Collaborate on Slack
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 Compost digestion monitoring
+              p Kale Thami is involved in self-sustained agroculture. If his crops fail it is a disaster for his family. Using technology help Kale make perfect compost fertilizer so that his crops will never fail.
+              p
+              a href=https://youtu.be/3jRAz_tfm-4 See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/hackproject-org-compost-digestion-monitoring-sh-august-2016-5ebcef21616b#.i9c69pufy See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-compostdigest/files/F26TA142E/ Collaborate on Slack
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=docs/contributors/supporters NEEDED Solution Writeup
+              p
+              a href=docs/contributors/supporters NEEDED Solution Video
+      .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 A bucket a day, a hack in agriculture
+              p Growing vegetables by using just one bucket of water everyday in places where water is scarce.
+              p
+              a href=https://youtu.be/pMJK9NQYiog See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/a-bucket-a-day-a-hack-in-agriculture-8b8176b7d285#.nqtjnzqpn See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-bucket_a_day/files/F26TA142E/ Collaborate on Slack
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
+            .col-sm-4
+              h2 Proposed Solutions
+              a href=https://medium.com/@pravenj/a-bucket-a-day-a-hack-in-agriculture-8b8176b7d285#.nqtjnzqpn Proposed solution 1 on Medium.
+       .landing-feature-1
+        .container style="text-align: center;"
+          .row 
+            .col-sm-4
+              h2 In need for an innovative scarecrow
+              p Can a simple technology be developed for a digital scarecrow based onraspberry pi and sensors?
+              p
+              a href=https://youtu.be/DVjUZkuUEYw See problem video on YouTube
+              p
+              a href=https://medium.com/@pravenj/in-need-for-an-innovative-scarecrow-e3c48e14e424#.lgaes54bi See detailed problem statement on Medium
+              p
+              a href=https://hackprojectorg.slack.com/messages/project-scarecrow/files/F26TA142E/ Collaborate on Slack
+            .col-sm-4
+              h2 Lessons
+              a href=docs/contributors/supporters NEEDED Lesson writeup
+              p
+              a href=docs/contributors/supporters NEEDED Lesson Video
             .col-sm-4
               h2 Proposed Solutions
               a href=docs/contributors/supporters NEEDED Solution Writeup
@@ -192,7 +371,3 @@ html lang={{.Site.LanguageCode}}
               p © 2016 HackProject.org
       script src=http://code.jquery.com/jquery-2.2.1.min.js
       script src=/js/app.min.js
-
-
-
-
